@@ -1,6 +1,7 @@
 # Fivem Script Creator
 
 ## 🌟 Follow me and give a star ⭐ to the project!
+[Download](https://github.com/AhmedYousefDev/FivemScriptCreator/releases/download/v3.1.0/FivemScriptCreator.rar)
 
 ## ⭐ تابعني وقم بوضع نجمة ⭐ على المشروع!
 
